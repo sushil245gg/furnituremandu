@@ -1,0 +1,37 @@
+body {
+    body {
+        background-image: url('background.png');
+        background-size: cover;
+        background-attachment: fixed;
+        color: white;
+    }
+    
+    .navbar {
+        background-color: rgba(0, 0, 0, 0.7);
+    }
+    
+    .navbar-brand, .nav-link {
+        color: white !important;
+    }
+    
+    .jumbotron {
+        background-color: rgba(0, 0, 0, 0.7);
+        padding: 2rem;
+        margin-bottom: 2rem;
+        border-radius: 10px;
+    }
+    
+    .product-card {
+        background-color: rgba(255, 255, 255, 0.8);
+        border-radius: 10px;
+        padding: 20px;
+        margin-bottom: 20px;
+        color: black;
+    }
+    
+    .contact-info {
+        background-color: rgba(0, 0, 0, 0.7);
+        padding: 20px;
+        border-radius: 10px;
+    }
+    
